@@ -1,11 +1,11 @@
 {
+  "version": "1.2.18",
+  "notes": "New update",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/alfares-2025/build-ledger/releases/download/v1.2.17/Quttina_1.2.17_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblVoa3B1eTZiblA3dW9ia1RiWTFkNjd4UnRIOHlncXBZMGVCZ3cwSjdabno0TmVIbWdkUGp0ODc4VE1qa0d6d3JobWRWS0prSFhTNlZjbWU1aU5pS1RXZ2VDMFBUeHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDc1NDg4CWZpbGU6UXV0dGluYV8xLjIuMTdfeDY0LXNldHVwLmV4ZQphZFFPUU5KZC9jTnRiT2dKMTI3N3Y4TEVDOWZhbU9KMHFLT2pYZFVFVWVvUFJwN0dzOTVSeGZ2RlJBTGZzU0NzY2xuR3FZbzBxcXNSYTZRQ25LWFVBUT09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblVoa3B1eTZibkZNTkU2ckZjdnN2TnZEcGdMU29abHIrbGd4ay8rWHhkUG9qVlRVVVluUzgrK0M0amN1ektRUk5ZMEdwblkxNEpRRVQ3M3o5NnBEMUR3YnRXcklLM3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDgxNzg5CWZpbGU6UXV0dGluYV8xLjIuMThfeDY0LXNldHVwLmV4ZQpyWVpJWmVxc0ZSK2dlbThjMWMySmVlRE0yaHphbVp3bVpXZVZKRXBLNVd6eVcrN01ZOWMvaTg5amswb3BSUTJJYyt1YmpWZjNUYVpSZmFNODJTLzBDUT09Cg==",
+      "url": "https://github.com/alfares-2025/quttina-releases/releases/download/v1.2.18/Quttina_1.2.18_x64-setup.exe"
     }
   },
-  "version": "1.2.17",
-  "notes": "New update",
-  "pub_date": "2026-05-29T17:24:50Z"
+  "pub_date": "2026-05-29T19:09:51Z"
 }
