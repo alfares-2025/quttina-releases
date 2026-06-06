@@ -1,11 +1,11 @@
 {
+  "notes": "New update",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblVoa3B1eTZibkc1ZGI3eEdiOGNrcDBOMmV5bFhNcU5WUWtKek5pSEVQZXJyczZjY3JZZWhLdFB6VEtndWtsNWdDemhmMHgrTmNwSW1nWlZoa2s1ZFNvUjJQRXhVN3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzQyNTE3CWZpbGU6UXV0dGluYSBQcm9nXzEuMi4yNl94NjQtc2V0dXAuZXhlCmdiZFV3NnNYV0RsTWxyMGk2OXJKN3F1VHhFT1BDNmFMQnNyRkRqYUFaZHMyU1RBcS9xNDQ5b2MySm9UTDhCVk5XMWhKWDZqcXBsL2xCZFFYTEZlN0NRPT0K",
-      "url":"https://github.com/alfares-2025/quttina-releases/releases/download/v1.2.26/Quttina.Prog_1.2.26_x64-setup.exe"
+      "url": "https://github.com/alfares-2025/quttina-releases/releases/download/v1.2.27/Quttina%20Prog_1.2.27_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblVoa3B1eTZibkZoeGFKVmF0UXZGb1VPMDFCbWNjbkFCaGZhaElDNjdVVkhOYXNwazZodHFYWXF5QWJiYU1Tczd5L0d4ZU91V1ZGeU5Ca1dRNlFXY2NaMGczTU9lbHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzUwMjI3CWZpbGU6UXV0dGluYSBQcm9nXzEuMi4yN194NjQtc2V0dXAuZXhlCmY4RTJoMStpZlBiKzlmRDBWY0xZcVBGZXl0c2R2WUhZaGdUL2JEdDdmNjhpV2lKdjZMaDd0UU9HTTkvSGg0dGI4NE83bDFINnQvMVV0Z3lrVStyV0JBPT0K"
     }
   },
-  "notes": "New update",
-  "version": "1.2.26",
-  "pub_date": "2026-06-06T10:41:58Z"
+  "version": "1.2.27",
+  "pub_date": "2026-06-06T12:50:29Z"
 }
