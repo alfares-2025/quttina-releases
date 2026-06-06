@@ -2,7 +2,7 @@
   "notes": "New update",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/alfares-2025/quttina-releases/releases/download/v1.2.27/Quttina%20Prog_1.2.27_x64-setup.exe",
+      "url": "https://github.com/alfares-2025/quttina-releases/releases/download/v1.2.27/Quttina.Prog_1.2.27_x64-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUblVoa3B1eTZibkZoeGFKVmF0UXZGb1VPMDFCbWNjbkFCaGZhaElDNjdVVkhOYXNwazZodHFYWXF5QWJiYU1Tczd5L0d4ZU91V1ZGeU5Ca1dRNlFXY2NaMGczTU9lbHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNzUwMjI3CWZpbGU6UXV0dGluYSBQcm9nXzEuMi4yN194NjQtc2V0dXAuZXhlCmY4RTJoMStpZlBiKzlmRDBWY0xZcVBGZXl0c2R2WUhZaGdUL2JEdDdmNjhpV2lKdjZMaDd0UU9HTTkvSGg0dGI4NE83bDFINnQvMVV0Z3lrVStyV0JBPT0K"
     }
   },
